@@ -1,4 +1,5 @@
-# Self Avoidance RandomWalk & Expression Tree
+# Self Avoidance RandomWalk & Expression Tree 自回避随机行走问题 及 表达式树的建立与遍历的设计与实现
+
 Date: 2019/03/23
 
 课程内容：高级语言程序设计实验环节1
